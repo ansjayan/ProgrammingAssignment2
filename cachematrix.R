@@ -61,4 +61,5 @@ cacheSolve(myMatrix_object)
 ## repeats calling for checking cache is working or not
 cacheSolve(myMatrix_object)
 
+## completes testing.
 
